@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ticketpark/elibyy-zip.svg?branch=master)](https://travis-ci.org/Ticketpark/elibyy-zip/)
+[![Build Status](https://travis-ci.org/Ticketpark/elibyy-zip.svg?branch=master)](https://travis-ci.org/Ticketpark/elibyy-zip/)
 [![Docs](https://readthedocs.org/projects/zip/badge/?version=latest)](http://zip.rtfd.org/)
 
 *This is a fork of https://github.com/elibyy/Zip which was unexpectedly deleted and abandoned without any prior notice.*
